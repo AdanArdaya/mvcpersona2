@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPersona2", "ApiPersona2\ApiPersona2.csproj", "{F43709A3-69DB-451A-A5F0-99C6731545C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPersona2.Tests", "ApiPersona2.Tests\ApiPersona2.Tests.csproj", "{EAFB613A-4176-4156-9EB3-D7984812DE77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43709A3-69DB-451A-A5F0-99C6731545C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43709A3-69DB-451A-A5F0-99C6731545C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43709A3-69DB-451A-A5F0-99C6731545C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43709A3-69DB-451A-A5F0-99C6731545C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFB613A-4176-4156-9EB3-D7984812DE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFB613A-4176-4156-9EB3-D7984812DE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFB613A-4176-4156-9EB3-D7984812DE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFB613A-4176-4156-9EB3-D7984812DE77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65944FE8-AD7B-47B9-95CF-7D127EC18F2F}
+	EndGlobalSection
+EndGlobal
